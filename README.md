@@ -1,2 +1,4 @@
 # github-practice
 its a practice repository while learning about github details
+then i make a change in file while typing this text which you are reading at now , this is known as comit 
+author ahtesham yousaf , a student of software engineering 
